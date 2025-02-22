@@ -32,7 +32,8 @@ pip install requirements.txt
 ```
 🚀 Usage
 
-```sh python zero.py```
+```sh 
+python zero.py```
 
 🔴 Start Attack: Click the "Start Attack" button.
 🛑 Stop Attack: Click the "Stop Attack" button.
@@ -62,7 +63,8 @@ tkinter
 
 To install dependencies:
 
-```sh pip install -r requirements.txt```
+```sh 
+pip install -r requirements.txt```
 
 
 ---
