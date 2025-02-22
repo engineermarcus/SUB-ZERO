@@ -23,8 +23,7 @@ Using this tool without permission is illegal and unethical.
 ## 🛠️ Installation  
 
 ```sh
-git clone https://github.com/engineermarcus/SUB-ZERO.git  
-cd hybrid-dos-tool  
+git clone https://github.com/engineermarcus/SUB-ZERO.git
 cd SUB-ZERO
 pip install requirements.txt
 
