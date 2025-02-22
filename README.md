@@ -1,4 +1,4 @@
-# 🚀 Hybrid DoS Attack Tool  
+# 🚀 SUB ZERO  
 
 ![Status](https://img.shields.io/badge/Status-Development-orange)  
 ![Python](https://img.shields.io/badge/Made%20With-Python-blue)  
@@ -32,7 +32,7 @@ pip install requirements.txt
 ```
 🚀 Usage
 
-```python zero.py```
+```sh python zero.py```
 
 🔴 Start Attack: Click the "Start Attack" button.
 🛑 Stop Attack: Click the "Stop Attack" button.
@@ -62,7 +62,7 @@ tkinter
 
 To install dependencies:
 
-```pip install -r requirements.txt```
+```sh pip install -r requirements.txt```
 
 
 ---
