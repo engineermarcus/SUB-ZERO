@@ -7,6 +7,18 @@ import scapy.all as scapy
 import tkinter as tk
 from multiprocessing import Process
 
+'''
+  /$$$$$$  /$$   /$$ /$$$$$$$       /$$$$$$$$ /$$$$$$$$ /$$$$$$$   /$$$$$$ 
+ /$$__  $$| $$  | $$| $$__  $$     |_____ $$ | $$_____/| $$__  $$ /$$__  $$
+| $$  \__/| $$  | $$| $$  \ $$          /$$/ | $$      | $$  \ $$| $$  \ $$
+|  $$$$$$ | $$  | $$| $$$$$$$  /$$$$$$ /$$/  | $$$$$   | $$$$$$$/| $$  | $$
+ \____  $$| $$  | $$| $$__  $$|______//$$/   | $$__/   | $$__  $$| $$  | $$
+ /$$  \ $$| $$  | $$| $$  \ $$       /$$/    | $$      | $$  \ $$| $$  | $$
+|  $$$$$$/|  $$$$$$/| $$$$$$$/      /$$$$$$$$| $$$$$$$$| $$  | $$|  $$$$$$/
+ \______/  \______/ |_______/      |________/|________/|__/  |__/ \______/ 
+                                                                           
+'''                                                                                                                                                   
+
 # GUI Functionality
 def start_attack():
     global attack_running
@@ -111,3 +123,7 @@ stop_button = tk.Button(root, text="Stop Attack", command=stop_attack, bg="gray"
 stop_button.pack(pady=5)
 
 root.mainloop()
+
+
+
+
