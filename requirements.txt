@@ -1,7 +1,7 @@
 scapy
 requests
-socket
 threading
 random
 time
 multiprocessing
+smb
