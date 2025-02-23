@@ -68,7 +68,7 @@ enable_logging = True
 
 ---
 
-Log File Structure
+## **Log File Structure**
 
 By default, logs are stored in logs.txt in the following format:
 
