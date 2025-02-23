@@ -48,7 +48,7 @@ Modules & Attack Variants
 
 ---
 
-**Configuration**
+## **Configuration**
 
 Modify ice.py to customize attack parameters:
 
@@ -79,7 +79,7 @@ By default, logs are stored in logs.txt in the following format:
 
 ---
 
-###Legal Disclaimer
+### **Legal Disclaimer**
 
 This tool is intended only  for authorized  security testing on systems you own or have explicit permission to test. Unauthorized use of this tool on networks without consent is illegal and may result in severe consequences. The developers are not responsible for any misuse.
 
@@ -88,7 +88,7 @@ Use this software ethically and responsibly.
 
 ---
 
-**Contributors**
+## **Contributors**
 
 Marcus Onyango (Project Lead & Developer)
 
@@ -100,14 +100,14 @@ For contributions, open an issue or submit a pull request.
 
 ---
 
-##License
+## **License**
 
 This project is licensed under the MIT License.
 
 
 ---
 
-**Contact**
+## **Contact**
 
 For questions, reach out via:
 
