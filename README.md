@@ -25,13 +25,13 @@ cd SUB-ZERO
 
 Ensure you have Python installed. Then, install the required modules:
 
+```bash
 pip install -r requirements.txt
+```
 
-For Termux users, you may need:
-
-pkg install python
+```sh
 pip install scapy
-
+```
 **3. Run the Attack Suite**
 
 ```bash
@@ -79,9 +79,9 @@ By default, logs are stored in logs.txt in the following format:
 
 ---
 
-Legal Disclaimer
+###Legal Disclaimer
 
-This tool is intended only for educational purposes and security testing on systems you own or have explicit permission to test. Unauthorized use of this tool on networks without consent is illegal and may result in severe consequences. The developers are not responsible for any misuse.
+This tool is intended only  for authorized  security testing on systems you own or have explicit permission to test. Unauthorized use of this tool on networks without consent is illegal and may result in severe consequences. The developers are not responsible for any misuse.
 
 Use this software ethically and responsibly.
 
@@ -92,7 +92,7 @@ Use this software ethically and responsibly.
 
 Marcus Onyango (Project Lead & Developer)
 
-Ada Lovelace (AI-based code assistance)
+
 
 
 For contributions, open an issue or submit a pull request.
@@ -100,7 +100,7 @@ For contributions, open an issue or submit a pull request.
 
 ---
 
-License
+##License
 
 This project is licensed under the MIT License.
 
@@ -116,5 +116,5 @@ Email: engineermarcus72@gmail.com
 GitHub Issues: Open an Issue
 
 
-This is your `README.md` in code block format, with everything intact. Let me know if you need any edits!
+
 
