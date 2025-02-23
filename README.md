@@ -1,4 +1,4 @@
-# **SUB-ZERO Attack Suite**  
+# **SUB-ZERO**  
 
 
 ![SUB-ZERO Banner](thumbnails/sub.png)  
